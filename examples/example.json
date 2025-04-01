@@ -1,0 +1,6 @@
+{
+  "board": "esp8266",
+  "port": 0,
+  "project": "/home/user/path/to/project.ino",
+  "use-esptool": true
+}
